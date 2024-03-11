@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj kumar gupta</h1>
 <h3 align="center">A student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw0dQ3PEWV32C4OL2W0hPrCb&ust=1710258387027000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiH3pfH7IQDFQAAAAAdAAAAABAE">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj3024&label=Profile%20views&color=0e75b6&style=flat" alt="anuj3024" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj3024" alt="anuj3024" /></a> </p>
